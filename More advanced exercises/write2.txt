@@ -1,0 +1,4 @@
+1>line
+2>num
+3>write
+4>5>

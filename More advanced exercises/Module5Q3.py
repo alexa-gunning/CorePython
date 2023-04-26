@@ -1,0 +1,6 @@
+f = open("mod5q3.txt",'w')
+inpt = input("Enter the words:")
+words = inpt.split()
+ordered = sorted(words)
+f.write(str(ordered))
+f.close()
